@@ -1,0 +1,6 @@
+TCPserver/obj/
+TCPclient/obj/
+.vs/
+bin/
+CommonData/obj/
+GameServer/obj/
